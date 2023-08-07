@@ -88,7 +88,7 @@
     color: hsl(179, 100%, 13%);
     text-decoration: none;
 }
-.sedans a:hover {
+.luxury a:hover {
     background-color: transparent;
     border: 2px solid white;
     color: white;
