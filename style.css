@@ -79,4 +79,8 @@
     text-decoration: none;
 }
 
-@media (min-width: 320px) and (max-width: 776px)
+@media (min-width: 320px) and (max-width: 776px) {
+    .container {
+        flex-direction: column;
+    }
+}
