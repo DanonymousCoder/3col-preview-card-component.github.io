@@ -31,6 +31,7 @@
     flex-direction: column;
     gap: 2rem;
     margin-top: 30px;
+    margin-bottom: 60px;
 }
 .txt p.sub {
     font-size: 14px;
