@@ -28,6 +28,7 @@
 }
 .txt {
     display: flex;
+    flex-direction: column;
 }
 .txt p.sub {
     font-size: 14px;
