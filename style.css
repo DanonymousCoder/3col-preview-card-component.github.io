@@ -76,6 +76,11 @@
     color: hsl(184, 100%, 22%);
     text-decoration: none;
 }
+.suvs a:hover {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+}
 .luxury a {
     padding: 10px 18px;
     background-color: white;
