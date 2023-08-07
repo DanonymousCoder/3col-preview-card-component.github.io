@@ -26,6 +26,9 @@
 .luxury {
     background-color: hsl(179, 100%, 13%);
 }
+.txt {
+    display: flex;
+}
 .txt p.sub {
     font-size: 14px;
 }
