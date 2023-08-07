@@ -79,35 +79,3 @@
     text-decoration: none;
 }
 
-@media (max-width: 375px) {
-    .body {
-        position: absolute;
-        width: 100%;
-        height: 100vh;
-    }
-    .container {
-        flex-direction: column;
-        padding-top: 0;
-       
-    }
-    .txt {
-        margin-top: 20px;
-        margin-bottom: 30px;
-    }
-    p.head {
-        font-size: 20px;
-    }
-    p.sub {
-        font-size: 10px;
-        line-height: 25px;
-    }
-    .sedans {
-        width: 250px;
-    }
-    .suvs {
-        width: 250px;
-    }
-    .luxury {
-        width: 250px;
-    }
-}
