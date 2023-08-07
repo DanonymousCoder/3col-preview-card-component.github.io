@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+.shoulder {
+    font-family: 'Big Shoulders Display', sans-serif;
+}
 .body {
     position: relative;
     width: 100%;
