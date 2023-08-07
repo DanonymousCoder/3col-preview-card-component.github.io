@@ -88,6 +88,11 @@
     color: hsl(179, 100%, 13%);
     text-decoration: none;
 }
+.sedans a:hover {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+}
 
 @media (min-width: 320px) and (max-width: 350px) {
     .body {
