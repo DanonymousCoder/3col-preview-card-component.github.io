@@ -57,3 +57,6 @@
 .txt p.sub {
     font-size: 14px;
 }
+button {
+    padding: 5px 75px;
+}
