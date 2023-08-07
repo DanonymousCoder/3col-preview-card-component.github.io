@@ -4,7 +4,6 @@
 }
 #shoulder {
     font-family: 'Big Shoulders Display', sans-serif;
-    font-weight: 700
 }
 #lexend {
     font-family: 'Lexend Deca', sans-serif;
@@ -28,10 +27,8 @@
     padding-right: 30px;
     padding-top: 40px;
     padding-bottom: 40px;
-    border-radius: 10px;
 }
 .suvs {
-    border-radius: 10px;
     background-color: hsl(184, 100%, 22%);
     padding-left: 50px;
     padding-right: 30px;
@@ -39,7 +36,6 @@
     padding-bottom: 40px;
 }
 .luxury {
-    border-radius: 10px;
     background-color: hsl(179, 100%, 13%);
     padding-left: 50px;
     padding-right: 30px;
@@ -50,17 +46,16 @@
     display: flex;
     flex-direction: column;
     gap: 2rem;
-    margin-top: 45px;
-    margin-bottom: 70px;
+    margin-top: 40px;
+    margin-bottom: 60px;
     color: white;
 }
 .txt p.head {
     font-weight: 700;
-    font-size: 35px;
+    font-size: 30px;
 }
 .txt p.sub {
     font-size: 14px;
-    line-height: 25px;
 }
 .sedans a {
     padding: 10px 18px;
@@ -84,3 +79,35 @@
     text-decoration: none;
 }
 
+@media (min-width: 320px) and (max-width: 776px) {
+    .body {
+        position: absolute;
+        width: 100%;
+        height: 100vh;
+    }
+    .container {
+        flex-direction: column;
+        padding-top: 0;
+       
+    }
+    .txt {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    p.head {
+        font-size: 20px;
+    }
+    p.sub {
+        font-size: 10px;
+        line-height: 25px;
+    }
+    .sedans {
+        width: 250px;
+    }
+    .suvs {
+        width: 250px;
+    }
+    .luxury {
+        width: 250px;
+    }
+}
