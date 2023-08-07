@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/DanonymousCoder/3col-preview-card-component.github.io)
+- Live Site URL: [Add live site URL here](https://danonymouscoder.github.io/3col-preview-card-component.github.io/)
 
 ## My process
 
