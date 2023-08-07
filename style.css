@@ -101,6 +101,7 @@
         height: 100vh;
     }
     .container {
+        height: 1200;
         flex-direction: column;
         position: relative;
         left: 50%;
