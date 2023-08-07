@@ -59,7 +59,7 @@
 }
 .sedans a {
     padding: 10px 18px;
-    color: white;
+    background-color: white;
     border-radius: 15px;
     color: hsl(31, 77%, 52%);
 }
