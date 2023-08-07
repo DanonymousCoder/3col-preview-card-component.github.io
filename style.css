@@ -29,6 +29,7 @@
 .txt {
     display: flex;
     flex-direction: column;
+    gap: 2rem;
 }
 .txt p.sub {
     font-size: 14px;
