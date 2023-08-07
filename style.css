@@ -89,6 +89,7 @@
         flex-direction: column;
         position: relative;
         top: 50%;
+        left: 50%;
     }
     .txt {
         margin-top: 20px;
