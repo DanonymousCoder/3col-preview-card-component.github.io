@@ -119,6 +119,9 @@
     .sedans {
         width: 250px;
     }
+    .sedans img {
+        padding-top: 10px;
+    }
     .suvs {
         width: 250px;
     }
