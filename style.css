@@ -101,6 +101,7 @@
         height: 100vh;
     }
     .container {
+        background-color: aqua;
         height: 1200;
         flex-direction: column;
         position: relative;
