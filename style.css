@@ -94,7 +94,7 @@
     color: white;
 }
 
-@media (min-width: 320px) and (max-width: 350px) {
+@media (min-width: 320px) and (max-width: 776px) {
     .body {
         position: absolute;
         width: 100%;
