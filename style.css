@@ -87,6 +87,9 @@
         margin-top: 20px;
         margin-bottom: 30px;
     }
+    p.head {
+        font-size: 20px;
+    }
     p.sub {
         font-size: 10px;
     }
