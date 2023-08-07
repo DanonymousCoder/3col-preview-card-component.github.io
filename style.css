@@ -83,4 +83,8 @@
     .container {
         flex-direction: column;
     }
+    .txt {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
 }
