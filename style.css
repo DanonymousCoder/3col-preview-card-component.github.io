@@ -102,6 +102,9 @@
     }
     .container {
         flex-direction: column;
+        position: relative;
+        left: 50%;
+        top: 50%;
         padding-top: 0;
         margin-top: 10px;
     }
