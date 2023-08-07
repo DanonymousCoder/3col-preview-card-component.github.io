@@ -88,6 +88,7 @@
     .container {
         flex-direction: column;
         padding-top: 0;
+        position: relative;
     }
     .txt {
         margin-top: 20px;
