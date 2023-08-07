@@ -87,6 +87,7 @@
     }
     .container {
         flex-direction: column;
+        position: relative;
     }
     .txt {
         margin-top: 20px;
