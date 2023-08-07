@@ -65,7 +65,7 @@
     text-decoration: none;
 }
 .sedans a:hover {
-    background-color: none;
+    background-color: transparent;
     border: 3px solid white;
     color: white;
 }
