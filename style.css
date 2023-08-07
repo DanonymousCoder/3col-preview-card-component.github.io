@@ -102,7 +102,7 @@
     }
     .container {
         background-color: aqua;
-        height: 1200;
+        height: 1500;
         flex-direction: column;
         position: relative;
         left: 50%;
