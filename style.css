@@ -64,6 +64,10 @@
     color: hsl(31, 77%, 52%);
     text-decoration: none;
 }
+.sedans a:hover {
+    background-color: none;
+    border: 3px solid white;
+}
 .suvs a {
     padding: 10px 18px;
     background-color: white;
