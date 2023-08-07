@@ -49,7 +49,7 @@ Users should be able to:
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/DanonymousCoder)
 - Twitter - [@yourusername](https://www.twitter.com/DanonymousCoder)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
